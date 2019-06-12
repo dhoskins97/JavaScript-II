@@ -1,6 +1,11 @@
 // ==== Challenge 1: Write your own closure ====
 // Write a simple closure of your own creation.  Keep it simple!
 
+const coolGuy = 'Dak'
+function whoIsTheCoolest(){
+  console.log('The coolest guy around is ' + coolGuy + '!')
+}
+whoIsTheCoolest();
 
 /* STRETCH PROBLEMS, Do not attempt until you have completed all previous tasks for today's project files */
 
